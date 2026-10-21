@@ -1,0 +1,8 @@
+build/
+dist/
+bin/
+classes/
+*.class
+*.jar
+*.war
+base/
