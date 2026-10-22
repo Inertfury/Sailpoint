@@ -3,6 +3,7 @@
 <Application connector="sailpoint.connector.DelimitedFileConnector" featuresString="DIRECT_PERMISSIONS, NO_RANDOM_ACCESS, DISCOVER_SCHEMA" icon="enterpriseIcon" name="TMS SSB Test 1" profileClass="" type="DelimitedFile">
   <Attributes>
     <Map>
+      <entry key="test" value="1234"/>
       <entry key="PassphraseForPrivateKey"/>
       <entry key="PrivateKeyFilePath"/>
       <entry key="afterProvisioningRule"/>
